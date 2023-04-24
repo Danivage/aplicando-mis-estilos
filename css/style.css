@@ -1,0 +1,51 @@
+header {
+    background-color: rgb(243, 2, 2);
+}
+
+.colortitulo {
+    color: rgb(2, 2, 141);
+}
+
+.historia {
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+    font-size: x-large;
+    color: aliceblue;
+}
+
+.estadios {
+    background-color: #a40606;
+    background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
+    
+    font-size: x-large;
+}
+
+.titulos {
+    background-color: #36096d;
+    background-image: linear-gradient(315deg, #36096d 0%, #37d5d6 74%);
+    font-size: x-large;
+    color: aliceblue;
+}
+
+.peñas {
+    background-color: #990000;
+    background-image: linear-gradient(147deg, #990000 0%, #ff0000 74%);
+    font-size: x-large;
+    color: aliceblue;
+}
+
+#estadios {
+    color: blanchedalmond;
+}
+
+h2 {
+    font-family: 'Anton', sans-serif;
+    ;
+}
+
+p {
+    font-family: 'Kanit', sans-serif;
+}
+#NG {float: left;
+
+}
